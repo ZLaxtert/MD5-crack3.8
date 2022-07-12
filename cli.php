@@ -48,6 +48,7 @@ if($reqemail > 30) {
 
 $s = 0;
 $f = 0;
+$t = 0;
 $no = 0;
 $total = count($lists);
 echo "\n[!] TOTAL \e[32;1m$total \e[0mLISTS [!]\n\n";
@@ -111,6 +112,7 @@ echo "================[DONE]================".PHP_EOL;
 echo " DATE      : ".$date.PHP_EOL;
 echo " SUCCESS   : ".$s.PHP_EOL;
 echo " FAILED    : ".$f.PHP_EOL;
+echo " TRY AGAIN : ".$t.PHP_EOL;
 echo " TOTAL     : ".$total.PHP_EOL;
 echo "======================================".PHP_EOL;
 echo "result saved in folder 'result'".PHP_EOL;
