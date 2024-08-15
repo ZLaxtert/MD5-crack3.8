@@ -16,7 +16,5 @@
     $ cd MD5-crack3.8
     $ php cli.php
 
-## Screenshot
-<img src="https://cloud.banditcoding.xyz/cloud/upload/alex/bg.png">
 
 
